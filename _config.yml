@@ -1,0 +1,23 @@
+name: Nino Khan
+favicon: null
+layout_spectrum: 0.42600168101489544
+typography_spectrum: 0.67974365898408
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8272973613347858
+  lightness: 0.22323176451027393
+  saturation: 0.7963223580736667
+  rhythmicContrast: 0.5956237949430943
+purpose: []
